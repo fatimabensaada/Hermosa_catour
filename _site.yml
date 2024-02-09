@@ -1,0 +1,14 @@
+name: "."
+title: "Hermosa catour"
+description: |
+  name of your website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "shopping"
+      href: shopping.html  
+    - text: "About us"
+      href: Aboutus.html 
+output: distill::distill_article

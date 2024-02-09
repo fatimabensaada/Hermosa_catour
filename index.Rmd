@@ -1,0 +1,27 @@
+---
+title: "**Hermosa.catour**"
+image: ""
+links:
+  - label: '<i class="fa-brands fa-instagram fa-beat" style="color: #c973c2;"></i> Instagram'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "mailto:Fatima.bensaada_22@greenoak.bham.sch.uk"
+output:
+  postcards::solana
+site: distill::distill_website
+---
+ 
+# Introduction
+![](Images/2.jpg){width=45%}
+
+Girlies get ready for the fashion future! We're proud to introduce an exclusive fashion line that caters to all, no matter what your creed. This collection is every Muslim girl's dream, with everyday wear that's both personalised and modest. We've sourced the most comfortable fabrics from the Middle East, imported straight to the UK!
+Our abayas are the epitome of affordable luxury, tailored to your unique style and taste. So, you can feel like you're walking down a red carpet every day without breaking the bank. Get ready to slay!   
+
+"The sun doesn't lose its beauty when covered by the clouds.  
+The same way your beauty doesn't fade when being covered by Hijab."
+Angelina Jolie
+`r emo::ji("heart")` 
+
+
