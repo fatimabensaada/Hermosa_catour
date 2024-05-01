@@ -1,16 +1,17 @@
 ---
-title: "About us"
-description: |
-  A new article created using the Distill format.
+title: "Learn more"
+description: if you are found of learning more about hermosa catour then keep reading to see some examples of what we sell and what types of clothing we have to offer for you and all the information that you need to start being the princess you deserve to be dont worry we also have cultural clothing for you
+  
 
 output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-```
-
-![](Images/3.jpg){width=30%}
+``` 
+![](Images/morocco.jpg){width=45%}
+![](Images/cream.jpg){width=50%}
+![](Images/abayaa.jpg){width=50%} 
 
 
 
