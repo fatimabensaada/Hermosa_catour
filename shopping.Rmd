@@ -1,6 +1,6 @@
 ---
 title: "Shopping"
-description: 
+description: If you are interested in delving deeper into the world of Hermosa Couture, continue reading to explore a selection of our offerings, including various clothing options designed to cater to your preferences. Discover all the essential information required to embark on your journey to embody the regal essence you truly deserve. Rest assured, we also feature a range of cultural attire to complement your style.
  
 
 output: distill::distill_article
@@ -9,9 +9,9 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-
-
+![](Images/pink.jpg){width=50%}
+![](Images/green.jpg){width=50%}
+![](Images/mm.jpg){width=50%}
 
 
 
